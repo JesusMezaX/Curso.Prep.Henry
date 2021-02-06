@@ -1,0 +1,5 @@
+Variables: Son Espacios de memoria que poseen un valor o contenido y se identifican mediante un nombre único dentro del scope.
+Strings: Son un tipo de variable, su principal característica es que son cadenas de texto.
+Funciones: Son Objetos Invocables dentro del Scope que cumplen una función específica, se busca con ellas operar variables y de esta manera definir un comportamiento de la aplicación, las funciones tienes la posibilidad de retornar un valor en específico, esta es la única manera de usar una variable definida dentro de la misma afuera en el scope.
+Declaraciones If: Funcionan como un controlador del flujo del programa, nos *ermite definir las reglas bajo las cuales va a funcionar nuestro programa. Todo esto mediante la comparación de variables.
+Valores Booleanos: Son un tipo de variable que puede tener uno de dos estados, true o false, dependiendo de su valor integrarlas como parámetros en el funcionamiento de nuestra aplicación.
