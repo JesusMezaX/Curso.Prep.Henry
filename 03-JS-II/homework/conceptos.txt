@@ -1,0 +1,4 @@
+for:es un statement que nos permite comparar, analizar y operar variables de forma repetitiva, es decir, si tenemos que realizar tareas que deden repetirse constantemente, en lugar de realziar una sentencia por cada rept, usamos este statement para ejecutar el loop que nos lo haga las veces que queramos.
+&& -> Es es un comparador de variables, y su resultado arroja un valor booleano, en este caso la operación nos va a retornar un valor true siempre y cuando ambos operandos sean true.(Comparador AND)
+|| --> Al igual que el anterior es un comparador de variables, solo que en este caso para que la compración nos retorne un valor false, ambas variables comparadas tienen que ser false. (Comparador OR)
+!-->Este comparador niega el valor de una expresión retornando un Booleano.
