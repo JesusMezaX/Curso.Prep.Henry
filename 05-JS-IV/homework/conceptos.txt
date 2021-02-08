@@ -1,0 +1,11 @@
+    * Objetos:  Son modelos de datos complejos, que permiten definirle a una variable un conjunto de atributos específicos, estos atributos pueden ser, strings, numbers, functions, arrays, etc..., cada objeto estará definido por unas características y asi mismo se podrá tener acceso a las mismas.
+	* Propiedades: Son las características que poseen nuestros objetos, lo que lo hacen único, un objeto por tener las mismas propiedades aue otro, pero, su identificación lo separa para cualqueir trabajo de gestión del mismo.
+	* Métodos: Son funciones definidas dentro de un objeto, y hacen uso de variables expuestas a nivel global como a nivel local mediante la palabra clave this.
+	* Bucle `for…in` -->Este bucle nos permite tener acceso a cada clave (atributo) definido dentro de nuestro objeto, y su estructura completa es:
+    for(let clave in usuario){
+        clave-->atributo;
+        usuario-->nombre de objeto
+        //codigo
+    } 
+	* Notación de puntos vs notación de corchetes-----> La notación de puntos es más rápida y a mi parecer intuitiva si requerimos obtener un dato específico de un objeto, si queremos qu ela obtención de este dato dependa de una variable (Sea dinámica), tenemos que usar corchetes, ya que los objeto[variable] permiten realizar esta tarea.
+    
