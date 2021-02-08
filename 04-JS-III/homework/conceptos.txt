@@ -1,0 +1,1 @@
+Arrays--> Los arreglos son un conjunto de datos organizados, pueden contener datos de diferentes tipos, también objetos o funciones, cada variable tiene un índice específico dentro del mismo, por lo que obtener información es sencillo si hacemos referencia al respectivo identificador.
