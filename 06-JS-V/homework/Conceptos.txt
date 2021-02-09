@@ -1,0 +1,2 @@
+prototype--> El prototype de una clase permite definir un conjunto de métodos o atributos que no están necesariamente descritos dentro de la función constructora del objeto.
+Constructors: Definen dentro de la clase el conjunto de atributos que van a heredar las respectivas instancias. 
