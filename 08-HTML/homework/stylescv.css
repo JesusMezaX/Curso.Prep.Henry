@@ -1,0 +1,87 @@
+body {
+    font-family: 'Big Shoulders Display', cursive;
+    margin: 0;
+    padding: 0;
+} 
+h1 {
+    padding: 0;
+    margin: 0;
+}
+
+#header {
+    padding: 50px;
+    background-color: yellow;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.margin {
+    margin: 0 100px 0 100px;
+}
+.adjust {
+    padding: 20px 50px 20px 50px;
+    margin: 0 100px 0 100px;
+    border-top:1px solid gray;
+}
+
+#experience {
+    padding: 50px;
+}
+.photoProfile img {
+    width: 160px;
+    height: 220px;
+    border-radius: 10%;
+}
+.title {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.title .iconos {
+    width: 30px;
+    height: 30px;
+}
+.title h2 {
+    display: inline-flex;
+    margin: 0 0 0 20px;
+}
+.skillList {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.skillList li {
+    background-color: black;
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+    list-style: none;
+    font-weight: 700;
+    border-radius: 15px;
+    color: white;
+}
+
+.hobbyList li {
+    background-color: yellow;
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+    list-style: none;
+    font-weight: 700;
+    border-radius: 15px;
+    color: black;
+    margin-top: 20px;
+}
+
+footer {
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

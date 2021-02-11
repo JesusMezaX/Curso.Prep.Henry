@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://cdn57.androidauthority.net/wp-content/uploads/2015/11/00-best-backgrounds-and-wallpaper-apps-for-android.jpg");
+    color: white;
+}
+h1 {
+    color: yellow;
+}
+img {
+    width: 400px;
+}
+div {
+    margin: 15px auto;
+    border: 1px solid yellow;
+    text-align: center;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: yellow;
+    padding: 50px;
+    border: 2px solid yellow;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
